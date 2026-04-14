@@ -1,5 +1,16 @@
 # @mysten/docs
 
+## 0.1.18
+
+### Patch Changes
+
+- Updated dependencies [6adc085]
+- Updated dependencies [b1bf49a]
+- Updated dependencies [6661fe2]
+  - @mysten/sui@2.16.0
+  - @mysten/walrus@1.1.2
+  - @mysten/wallet-standard@0.20.1
+
 ## 0.1.17
 
 ### Patch Changes

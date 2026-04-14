@@ -1,5 +1,15 @@
 # @mysten/walrus
 
+## 1.1.2
+
+### Patch Changes
+
+- 6661fe2: Fix quilt blob sorting in `encodeQuilt` by avoiding in-place mutation of the input
+  `blobs` array while preserving existing sorting behavior.
+- Updated dependencies [6adc085]
+- Updated dependencies [b1bf49a]
+  - @mysten/sui@2.16.0
+
 ## 1.1.1
 
 ### Patch Changes
